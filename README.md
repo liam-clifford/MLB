@@ -1,2 +1,2 @@
 # MLB
-Applicable particularly to those interested in scraping MLB information that has to do with different game stats for both pitchers and hitters. This script allows you to narrow down particular teams, look at different baseball season stats, and adjust different parameters pertaining to daily players
+Applicable particularly to those interested in scraping MLB information that has to do with different game stats for both pitchers and hitters. This script allows you to narrow down particular teams, look at different baseball season stats, and adjust different parameters pertaining to daily players. This is mainly useful for getting a hollistic approach of season long statistics in the form of various CSVs that can be further analyzed.
